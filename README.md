@@ -32,3 +32,7 @@ Go to `Preferences -> Color Scheme -> User` and select the `CryptoHack Color Sch
 ### Haskell
 
 ![Haskell Example](https://github.com/cryptohack/sublime-theme/blob/03f0211b1133a8bbb6219cf960247235d8d090ae/images/haskell_example.png)
+
+## Typography
+
+In the screenshots, we use [IBM Plex Mono](https://www.ibm.com/plex/). The IBM Plex font is an [open source](https://github.com/IBM/plex) project.
